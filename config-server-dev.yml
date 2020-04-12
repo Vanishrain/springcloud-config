@@ -1,6 +1,4 @@
-spring:
-  datasource:
-    driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/ams?useSSL=false&useUnicode=true&characterEncoding=utf8
-    username: postgres
-    password: postgres
+value:
+  fileName: config-server-dev.yml
+  userName: dev
+  password: 654321
