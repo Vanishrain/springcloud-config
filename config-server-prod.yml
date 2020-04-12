@@ -1,4 +1,4 @@
 value:
-    fileName: config-server-prod.yml
-    userName: prod
+    filename: config-server-prod.yml
+    username: prod
     password: 123456

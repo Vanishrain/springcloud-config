@@ -1,4 +1,4 @@
 value:
-  fileName: config-server-dev.yml
-  userName: dev
+  filename: config-server-dev.yml
+  username: dev
   password: 654321
